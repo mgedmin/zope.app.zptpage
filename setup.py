@@ -47,7 +47,7 @@ setup(
         ],
     description='ZPT page content component',
     long_description = (
-        read('README.txt')
+        read('README.rst')
         + '\n\n' +
         read('CHANGES.txt')
         ),
